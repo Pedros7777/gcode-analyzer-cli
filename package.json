@@ -1,0 +1,15 @@
+{
+  "name": "gcode-analyzer-cli",
+  "version": "1.0.0",
+  "description": "Fast and lightweight CLI tool written in Node.js to analyze G-code files.",
+  "main": "index.js",
+  "bin": {
+    "gcode-analyze": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["gcode", "3d-printing", "cnc", "nodejs", "cli"],
+  "author": "",
+  "license": "MIT"
+}
